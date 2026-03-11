@@ -1,5 +1,7 @@
 Chart Time is a desktop app for Windows that lets you log how much time you are looking at the financial charts.
 
+Perfect for those who believe looking at the charts too long takes too much energy. 
+
 Add TradingView, Metatrader etc and watch the program tally it up.
 
 That's not all!
